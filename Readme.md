@@ -9,7 +9,7 @@ This project focuses on understanding **Responsive Layouts, Flexbox, and Modern 
 
 ## Preview
 
-![Lombok Wellness UI](https://github.com/harshilfinava23/lombok-wellness-ui/tree/main/ProjectSS.png)
+![Lombok Wellness UI](https://raw.githubusercontent.com//harshilfinava23/lombok-wellness-ui/main/ProjectSS.png)
 
 ---
 
